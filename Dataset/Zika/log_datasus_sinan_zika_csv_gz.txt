@@ -1,0 +1,301 @@
+
+════════════════════════════════════════════════════════════════════
+  DATASUS SINAN-ZIKA — Pipeline DBC → CSV / CSV.GZ
+════════════════════════════════════════════════════════════════════
+  Dataset       : Zika
+  Início        : 23/05/2026 17:36:48
+  Pasta base    : c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika
+  Total arquivos: 11
+
+  dbc_archive/  : c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive
+  csv_archive/  : c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive
+  gz_archive/   : c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive
+
+
+────────────────────────────────────────────────────────────
+  [01/11]  ZIKABR16.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR16.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR16.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR16.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR16.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR16.dbc
+  ✔ Download OK  [5.4 MB]
+  ⚙  Descomprimindo DBC → DBF  [5.4 MB]…
+  ✔ DBF gerado  [40.8 MB]
+  📖 Streaming DBF → CSV  (273,904 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [41.3 MB] · 273,904 reg × 38 cols · 20,675 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [3.9 MB]  (redução: 90.5%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 30.9s
+
+────────────────────────────────────────────────────────────
+  [02/11]  ZIKABR17.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR17.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR17.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR17.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR17.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR17.dbc
+  ✔ Download OK  [847.6 KB]
+  ⚙  Descomprimindo DBC → DBF  [847.6 KB]…
+  ✔ DBF gerado  [4.7 MB]
+  📖 Streaming DBF → CSV  (31,754 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [4.8 MB] · 31,754 reg × 38 cols · 20,869 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [594.2 KB]  (redução: 87.9%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 6.2s
+
+────────────────────────────────────────────────────────────
+  [03/11]  ZIKABR18.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR18.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR18.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR18.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR18.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR18.dbc
+  ✔ Download OK  [576.6 KB]
+  ⚙  Descomprimindo DBC → DBF  [576.6 KB]…
+  ✔ DBF gerado  [3.0 MB]
+  📖 Streaming DBF → CSV  (20,032 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [3.0 MB] · 20,032 reg × 38 cols · 21,716 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [396.3 KB]  (redução: 87.1%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 5.0s
+
+────────────────────────────────────────────────────────────
+  [04/11]  ZIKABR19.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR19.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR19.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR19.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR19.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR19.dbc
+  ✔ Download OK  [858.6 KB]
+  ⚙  Descomprimindo DBC → DBF  [858.6 KB]…
+  ✔ DBF gerado  [4.5 MB]
+  📖 Streaming DBF → CSV  (30,536 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [4.6 MB] · 30,536 reg × 38 cols · 21,416 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [603.5 KB]  (redução: 87.2%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 6.0s
+
+────────────────────────────────────────────────────────────
+  [05/11]  ZIKABR20.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR20.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR20.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR20.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR20.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR20.dbc
+  ✔ Download OK  [547.6 KB]
+  ⚙  Descomprimindo DBC → DBF  [547.6 KB]…
+  ✔ DBF gerado  [3.1 MB]
+  📖 Streaming DBF → CSV  (20,768 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [3.0 MB] · 20,768 reg × 38 cols · 21,188 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [374.9 KB]  (redução: 87.8%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 4.8s
+
+────────────────────────────────────────────────────────────
+  [06/11]  ZIKABR21.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR21.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR21.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR21.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR21.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR21.dbc
+  ✔ Download OK  [551.0 KB]
+  ⚙  Descomprimindo DBC → DBF  [551.0 KB]…
+  ✔ DBF gerado  [2.9 MB]
+  📖 Streaming DBF → CSV  (19,742 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [3.0 MB] · 19,742 reg × 38 cols · 21,320 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [380.8 KB]  (redução: 87.7%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 4.9s
+
+────────────────────────────────────────────────────────────
+  [07/11]  ZIKABR22.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR22.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR22.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR22.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR22.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR22.dbc
+  ✔ Download OK  [945.1 KB]
+  ⚙  Descomprimindo DBC → DBF  [945.1 KB]…
+  ✔ DBF gerado  [5.3 MB]
+  📖 Streaming DBF → CSV  (35,804 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [5.4 MB] · 35,804 reg × 38 cols · 21,181 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [661.5 KB]  (redução: 88.1%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 6.5s
+
+────────────────────────────────────────────────────────────
+  [08/11]  ZIKABR23.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR23.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR23.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR23.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR23.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR23.dbc
+  ✔ Download OK  [850.3 KB]
+  ⚙  Descomprimindo DBC → DBF  [850.3 KB]…
+  ✔ DBF gerado  [5.4 MB]
+  📖 Streaming DBF → CSV  (36,003 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [5.5 MB] · 36,003 reg × 38 cols · 21,845 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [593.2 KB]  (redução: 89.4%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 6.7s
+
+────────────────────────────────────────────────────────────
+  [09/11]  ZIKABR24.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR24.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR24.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR24.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR24.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR24.dbc
+  ✔ Download OK  [1.0 MB]
+  ⚙  Descomprimindo DBC → DBF  [1.0 MB]…
+  ✔ DBF gerado  [6.4 MB]
+  📖 Streaming DBF → CSV  (43,312 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [6.6 MB] · 43,312 reg × 38 cols · 21,272 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [744.8 KB]  (redução: 88.9%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 7.3s
+
+────────────────────────────────────────────────────────────
+  [10/11]  ZIKABR25.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR25.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR25.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR25.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR25.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR25.dbc
+  ✔ Download OK  [670.7 KB]
+  ⚙  Descomprimindo DBC → DBF  [670.7 KB]…
+  ✔ DBF gerado  [3.8 MB]
+  📖 Streaming DBF → CSV  (25,736 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [3.9 MB] · 25,736 reg × 38 cols · 18,247 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [466.1 KB]  (redução: 88.3%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 5.5s
+
+────────────────────────────────────────────────────────────
+  [11/11]  ZIKABR26.dbc  [Zika]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR26.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\dbc_archive\ZIKABR26.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\csv_archive\ZIKABR26.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\gz_archive\ZIKABR26.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR26.dbc
+  ✔ Download OK  [134.9 KB]
+  ⚙  Descomprimindo DBC → DBF  [134.9 KB]…
+  ✔ DBF gerado  [756.1 KB]
+  📖 Streaming DBF → CSV  (4,955 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [756.8 KB] · 4,955 reg × 38 cols · 21,626 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [92.3 KB]  (redução: 87.8%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 2.6s
+
+────────────────────────────────────────────────────────────
+  DEMONSTRAÇÃO DE LEITURA — Zika
+────────────────────────────────────────────────────────────
+
+  [ZIKABR16]
+    pd.read_csv('csv_archive/ZIKABR16.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR16.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR17]
+    pd.read_csv('csv_archive/ZIKABR17.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR17.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR18]
+    pd.read_csv('csv_archive/ZIKABR18.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR18.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR19]
+    pd.read_csv('csv_archive/ZIKABR19.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR19.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR20]
+    pd.read_csv('csv_archive/ZIKABR20.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR20.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR21]
+    pd.read_csv('csv_archive/ZIKABR21.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR21.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR22]
+    pd.read_csv('csv_archive/ZIKABR22.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR22.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR23]
+    pd.read_csv('csv_archive/ZIKABR23.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR23.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR24]
+    pd.read_csv('csv_archive/ZIKABR24.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR24.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR25]
+    pd.read_csv('csv_archive/ZIKABR25.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR25.csv.gz', compression='gzip')  → shape (3, 38)
+
+  [ZIKABR26]
+    pd.read_csv('csv_archive/ZIKABR26.csv')  → shape (3, 38)
+    pd.read_csv('gz_archive/ZIKABR26.csv.gz', compression='gzip')  → shape (3, 38)
+
+════════════════════════════════════════════════════════════════════
+  RELATÓRIO FINAL — ZIKA
+════════════════════════════════════════════════════════════════════
+
+  Detalhamento por arquivo · Zika
++-----+--------------+----------------+-------------+---------+-----------+-----------+-----------+--------+---------+
+| Nº  |   Arquivo    |     Status     |  Registros  |  Cols   |    DBC    |    CSV    |    GZ     |  Red%  |  Tempo  |
++=====+==============+================+=============+=========+===========+===========+===========+========+=========+
+|   1 | ZIKABR16     |       OK       |     273,904 |      38 |    5.4 MB |   41.3 MB |    3.9 MB |  90.5% |   30.9s |
+|   2 | ZIKABR17     |       OK       |      31,754 |      38 |  847.6 KB |    4.8 MB |  594.2 KB |  87.9% |    6.2s |
+|   3 | ZIKABR18     |       OK       |      20,032 |      38 |  576.6 KB |    3.0 MB |  396.3 KB |  87.1% |    5.0s |
+|   4 | ZIKABR19     |       OK       |      30,536 |      38 |  858.6 KB |    4.6 MB |  603.5 KB |  87.2% |    6.0s |
+|   5 | ZIKABR20     |       OK       |      20,768 |      38 |  547.6 KB |    3.0 MB |  374.9 KB |  87.8% |    4.8s |
+|   6 | ZIKABR21     |       OK       |      19,742 |      38 |  551.0 KB |    3.0 MB |  380.8 KB |  87.7% |    4.9s |
+|   7 | ZIKABR22     |       OK       |      35,804 |      38 |  945.1 KB |    5.4 MB |  661.5 KB |  88.1% |    6.5s |
+|   8 | ZIKABR23     |       OK       |      36,003 |      38 |  850.3 KB |    5.5 MB |  593.2 KB |  89.4% |    6.7s |
+|   9 | ZIKABR24     |       OK       |      43,312 |      38 |    1.0 MB |    6.6 MB |  744.8 KB |  88.9% |    7.3s |
+|  10 | ZIKABR25     |       OK       |      25,736 |      38 |  670.7 KB |    3.9 MB |  466.1 KB |  88.3% |    5.5s |
+|  11 | ZIKABR26     |       OK       |       4,955 |      38 |  134.9 KB |  756.8 KB |   92.3 KB |  87.8% |    2.6s |
++-----+--------------+----------------+-------------+---------+-----------+-----------+-----------+--------+---------+
+
+  Totais · Zika
++------------------------------+----------------------+
+|           Métrica            |        Valor         |
++==============================+======================+
+| Arquivos processados (OK)    |                   11 |
+| Arquivos pulados             |                    0 |
+| Arquivos com erro            |                    0 |
+| Total de registros           |              542,546 |
+| Espaço dbc_archive/          |              12.3 MB |
+| Espaço csv_archive/          |              81.8 MB |
+| Espaço gz_archive/           |               8.7 MB |
+| Tempo total                  |      86.9s (1.4 min) |
+| Fim da execução              |  23/05/2026 17:38:14 |
++------------------------------+----------------------+
+
+  📄 Log individual salvo em: c:\Users\SQL-Data\Desktop\Alpaca\Source\Zika\log_datasus_sinan_zika.txt
+
+────────────────────────────────────────────────────────────
+  FIM DO PIPELINE — ZIKA
+────────────────────────────────────────────────────────────
