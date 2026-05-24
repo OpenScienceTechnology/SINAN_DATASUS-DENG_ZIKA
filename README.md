@@ -448,20 +448,21 @@ Eles:
 * reduzem custos do LFS.
 
 #Recomendo adicionar suporte agora
-
+```text
 </> bash
 git lfs track "*.parquet"
 git lfs track "*.feather"
 git lfs track "*.7z"
 git lfs track "*.zst"
-
+```
 #Depois:
+```text
 </> bash
 
 git add .gitattributes
 git commit -m "Adiciona novos formatos ao Git LFS"
 git push
-
+```
 ---
 
 # 🖥 Compatibilidade
