@@ -1,0 +1,324 @@
+
+════════════════════════════════════════════════════════════════════
+  DATASUS SINAN-DENG — Pipeline DBC → CSV / CSV.GZ
+════════════════════════════════════════════════════════════════════
+  Dataset       : Dengue
+  Início        : 23/05/2026 16:11:13
+  Pasta base    : c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue
+  Total arquivos: 12
+
+  dbc_archive/  : c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive
+  csv_archive/  : c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive
+  gz_archive/   : c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive
+
+
+────────────────────────────────────────────────────────────
+  [01/12]  DENGBR15.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR15.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR15.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR15.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR15.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR15.dbc
+  ✔ Download OK  [104.2 MB]
+  ⚙  Descomprimindo DBC → DBF  [104.2 MB]…
+  ✔ DBF gerado  [734.1 MB]
+  📖 Streaming DBF → CSV  (2,398,060 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [572.2 MB] · 2,398,060 reg × 119 cols · 7,985 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [67.6 MB]  (redução: 88.2%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 582.9s
+
+────────────────────────────────────────────────────────────
+  [02/12]  DENGBR16.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR16.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR16.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR16.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR16.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR16.dbc
+  ✔ Download OK  [57.8 MB]
+  ⚙  Descomprimindo DBC → DBF  [57.8 MB]…
+  ✔ DBF gerado  [450.8 MB]
+  📖 Streaming DBF → CSV  (1,450,084 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [360.5 MB] · 1,450,084 reg × 121 cols · 7,844 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [35.7 MB]  (redução: 90.1%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 342.1s
+
+────────────────────────────────────────────────────────────
+  [03/12]  DENGBR17.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR17.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR17.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR17.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR17.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR17.dbc
+  ✔ Download OK  [9.4 MB]
+  ⚙  Descomprimindo DBC → DBF  [9.4 MB]…
+  ✔ DBF gerado  [74.4 MB]
+  📖 Streaming DBF → CSV  (239,395 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [61.3 MB] · 239,395 reg × 121 cols · 8,054 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [6.1 MB]  (redução: 90.1%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 62.9s
+
+────────────────────────────────────────────────────────────
+  [04/12]  DENGBR18.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR18.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR18.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR18.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR18.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR18.dbc
+  ✔ Download OK  [10.8 MB]
+  ⚙  Descomprimindo DBC → DBF  [10.8 MB]…
+  ✔ DBF gerado  [81.6 MB]
+  📖 Streaming DBF → CSV  (262,611 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [68.0 MB] · 262,611 reg × 121 cols · 8,057 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [7.1 MB]  (redução: 89.5%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 65.8s
+
+────────────────────────────────────────────────────────────
+  [05/12]  DENGBR19.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR19.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR19.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR19.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR19.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR19.dbc
+  ✔ Download OK  [69.8 MB]
+  ⚙  Descomprimindo DBC → DBF  [69.8 MB]…
+  ✔ DBF gerado  [480.7 MB]
+  📖 Streaming DBF → CSV  (1,546,252 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [406.7 MB] · 1,546,252 reg × 121 cols · 8,006 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [45.4 MB]  (redução: 88.8%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 402.9s
+
+────────────────────────────────────────────────────────────
+  [06/12]  DENGBR20.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR20.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR20.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR20.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR20.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR20.dbc
+  ✔ Download OK  [45.5 MB]
+  ⚙  Descomprimindo DBC → DBF  [45.5 MB]…
+  ✔ DBF gerado  [303.4 MB]
+  📖 Streaming DBF → CSV  (975,842 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [259.8 MB] · 975,842 reg × 121 cols · 8,045 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [30.1 MB]  (redução: 88.4%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 260.4s
+
+────────────────────────────────────────────────────────────
+  [07/12]  DENGBR21.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR21.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR21.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR21.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR21.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR21.dbc
+  ✔ Download OK  [43.4 MB]
+  ⚙  Descomprimindo DBC → DBF  [43.4 MB]…
+  ✔ DBF gerado  [318.6 MB]
+  📖 Streaming DBF → CSV  (1,024,635 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [271.3 MB] · 1,024,635 reg × 121 cols · 8,172 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [28.2 MB]  (redução: 89.6%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 253.7s
+
+────────────────────────────────────────────────────────────
+  [08/12]  DENGBR22.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR22.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR22.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR22.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR22.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR22.dbc
+  ✔ Download OK  [61.7 MB]
+  ⚙  Descomprimindo DBC → DBF  [61.7 MB]…
+  ✔ DBF gerado  [436.8 MB]
+  📖 Streaming DBF → CSV  (1,405,095 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [374.8 MB] · 1,405,095 reg × 121 cols · 8,140 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [39.9 MB]  (redução: 89.3%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 355.6s
+
+────────────────────────────────────────────────────────────
+  [09/12]  DENGBR23.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR23.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR23.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR23.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR23.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR23.dbc
+  ✔ Download OK  [59.1 MB]
+  ⚙  Descomprimindo DBC → DBF  [59.1 MB]…
+  ✔ DBF gerado  [511.7 MB]
+  📖 Streaming DBF → CSV  (1,645,956 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [442.2 MB] · 1,645,956 reg × 121 cols · 8,042 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [37.7 MB]  (redução: 91.5%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 383.9s
+
+────────────────────────────────────────────────────────────
+  [10/12]  DENGBR24.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR24.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR24.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR24.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR24.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR24.dbc
+  ✔ Download OK  [274.2 MB]
+  ⚙  Descomprimindo DBC → DBF  [274.2 MB]…
+  ✔ DBF gerado  [2.0 GB]
+  📖 Streaming DBF → CSV  (6,564,924 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [1.7 GB] · 6,564,924 reg × 121 cols · 6,497 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [178.6 MB]  (redução: 89.8%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 1870.8s
+
+────────────────────────────────────────────────────────────
+  [11/12]  DENGBR25.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR25.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR25.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR25.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR25.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR25.dbc
+  ✔ Download OK  [63.2 MB]
+  ⚙  Descomprimindo DBC → DBF  [63.2 MB]…
+  ✔ DBF gerado  [511.9 MB]
+  📖 Streaming DBF → CSV  (1,646,621 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [436.4 MB] · 1,646,621 reg × 121 cols · 7,738 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [39.6 MB]  (redução: 90.9%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 461.1s
+
+────────────────────────────────────────────────────────────
+  [12/12]  DENGBR26.dbc  [Dengue]
+────────────────────────────────────────────────────────────
+  URL : ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR26.dbc
+  DBC → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\dbc_archive\DENGBR26.dbc
+  CSV → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\csv_archive\DENGBR26.csv
+  GZ  → c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\gz_archive\DENGBR26.csv.gz
+  ↓ Download (tentativa 1/3): ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR26.dbc
+  ✔ Download OK  [11.3 MB]
+  ⚙  Descomprimindo DBC → DBF  [11.3 MB]…
+  ✔ DBF gerado  [101.9 MB]
+  📖 Streaming DBF → CSV  (327,820 registros detectados no cabeçalho)…
+  ✔ CSV salvo  [84.9 MB] · 327,820 reg × 121 cols · 6,835 reg/s
+  🗜  Comprimindo → gz_archive/ (streaming por chunks)…
+  ✔ CSV.GZ salvo [7.4 MB]  (redução: 91.3%)
+  🗑  DBF temporário removido.
+  ⏱  Tempo do arquivo: 89.9s
+
+────────────────────────────────────────────────────────────
+  DEMONSTRAÇÃO DE LEITURA — Dengue
+────────────────────────────────────────────────────────────
+
+  [DENGBR15]
+    pd.read_csv('csv_archive/DENGBR15.csv')  → shape (3, 119)
+    pd.read_csv('gz_archive/DENGBR15.csv.gz', compression='gzip')  → shape (3, 119)
+
+  [DENGBR16]
+    pd.read_csv('csv_archive/DENGBR16.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR16.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR17]
+    pd.read_csv('csv_archive/DENGBR17.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR17.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR18]
+    pd.read_csv('csv_archive/DENGBR18.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR18.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR19]
+    pd.read_csv('csv_archive/DENGBR19.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR19.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR20]
+    pd.read_csv('csv_archive/DENGBR20.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR20.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR21]
+    pd.read_csv('csv_archive/DENGBR21.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR21.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR22]
+    pd.read_csv('csv_archive/DENGBR22.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR22.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR23]
+    pd.read_csv('csv_archive/DENGBR23.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR23.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR24]
+    pd.read_csv('csv_archive/DENGBR24.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR24.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR25]
+    pd.read_csv('csv_archive/DENGBR25.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR25.csv.gz', compression='gzip')  → shape (3, 121)
+
+  [DENGBR26]
+    pd.read_csv('csv_archive/DENGBR26.csv')  → shape (3, 121)
+    pd.read_csv('gz_archive/DENGBR26.csv.gz', compression='gzip')  → shape (3, 121)
+
+════════════════════════════════════════════════════════════════════
+  RELATÓRIO FINAL — DENGUE
+════════════════════════════════════════════════════════════════════
+
+  Detalhamento por arquivo · Dengue
++-----+--------------+----------------+-------------+---------+-----------+-----------+-----------+--------+---------+
+| Nº  |   Arquivo    |     Status     |  Registros  |  Cols   |    DBC    |    CSV    |    GZ     |  Red%  |  Tempo  |
++=====+==============+================+=============+=========+===========+===========+===========+========+=========+
+|   1 | DENGBR15     |       OK       |   2,398,060 |     119 |  104.2 MB |  572.2 MB |   67.6 MB |  88.2% |  582.9s |
+|   2 | DENGBR16     |       OK       |   1,450,084 |     121 |   57.8 MB |  360.5 MB |   35.7 MB |  90.1% |  342.1s |
+|   3 | DENGBR17     |       OK       |     239,395 |     121 |    9.4 MB |   61.3 MB |    6.1 MB |  90.1% |   62.9s |
+|   4 | DENGBR18     |       OK       |     262,611 |     121 |   10.8 MB |   68.0 MB |    7.1 MB |  89.5% |   65.8s |
+|   5 | DENGBR19     |       OK       |   1,546,252 |     121 |   69.8 MB |  406.7 MB |   45.4 MB |  88.8% |  402.9s |
+|   6 | DENGBR20     |       OK       |     975,842 |     121 |   45.5 MB |  259.8 MB |   30.1 MB |  88.4% |  260.4s |
+|   7 | DENGBR21     |       OK       |   1,024,635 |     121 |   43.4 MB |  271.3 MB |   28.2 MB |  89.6% |  253.7s |
+|   8 | DENGBR22     |       OK       |   1,405,095 |     121 |   61.7 MB |  374.8 MB |   39.9 MB |  89.3% |  355.6s |
+|   9 | DENGBR23     |       OK       |   1,645,956 |     121 |   59.1 MB |  442.2 MB |   37.7 MB |  91.5% |  383.9s |
+|  10 | DENGBR24     |       OK       |   6,564,924 |     121 |  274.2 MB |    1.7 GB |  178.6 MB |  89.8% | 1870.8s |
+|  11 | DENGBR25     |       OK       |   1,646,621 |     121 |   63.2 MB |  436.4 MB |   39.6 MB |  90.9% |  461.1s |
+|  12 | DENGBR26     |       OK       |     327,820 |     121 |   11.3 MB |   84.9 MB |    7.4 MB |  91.3% |   89.9s |
++-----+--------------+----------------+-------------+---------+-----------+-----------+-----------+--------+---------+
+
+  Totais · Dengue
++------------------------------+----------------------+
+|           Métrica            |        Valor         |
++==============================+======================+
+| Arquivos processados (OK)    |                   12 |
+| Arquivos pulados             |                    0 |
+| Arquivos com erro            |                    0 |
+| Total de registros           |           19,487,295 |
+| Espaço dbc_archive/          |             810.2 MB |
+| Espaço csv_archive/          |               5.0 GB |
+| Espaço gz_archive/           |             523.3 MB |
+| Tempo total                  |   5134.1s (85.6 min) |
+| Fim da execução              |  23/05/2026 17:36:48 |
++------------------------------+----------------------+
+
+  📄 Log individual salvo em: c:\Users\SQL-Data\Desktop\Alpaca\Source\Dengue\log_datasus_sinan_dengue.txt
+
+────────────────────────────────────────────────────────────
+  FIM DO PIPELINE — DENGUE
+────────────────────────────────────────────────────────────
