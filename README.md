@@ -431,6 +431,37 @@ Recomenda-se:
 * Ambientes cloud
 * Leitura em chunks
 
+## 📌 Recomendação profissional para datasets grandes
+Para projetos de Ciência de Dados muito grandes:
+
+Melhor formato - Prefira:
+
+* (*.parquet)
+* (*.feather)
+* (*.zstd)
+* (*.7z)
+
+Eles:
+* comprimem melhor;
+* carregam mais rápido;
+* usam menos banda;
+* reduzem custos do LFS.
+
+#Recomendo adicionar suporte agora
+
+</> bash
+git lfs track "*.parquet"
+git lfs track "*.feather"
+git lfs track "*.7z"
+git lfs track "*.zst"
+
+#Depois:
+</> bash
+
+git add .gitattributes
+git commit -m "Adiciona novos formatos ao Git LFS"
+git push
+
 ---
 
 # 🖥 Compatibilidade
