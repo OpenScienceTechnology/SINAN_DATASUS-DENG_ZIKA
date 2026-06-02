@@ -630,6 +630,7 @@ Este projeto pode ser distribuído sob a licença **MIT**, desde que mantidos os
 ---
 
 ## 👨‍💻 Autor/Responsável
+
 **Autor:** VIANA
 **Projeto acadêmico:** SIPREV — Sistema Inteligente de Previsão Epidemiológica de Dengue  
 **Área:** Ciência dos Dados aplicada à Saúde Pública  
