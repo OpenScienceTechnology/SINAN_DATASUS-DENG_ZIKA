@@ -11,6 +11,7 @@ Original file is located at
 **Disciplina:** Analise Organizacional e Solucoes Tecnologicas  
 **Semestre:** 2026.1 | **Curso:** Ciencia dos Dados  
 **Modulo:** 3 — Relatorio Parcial da Acao de Extensao  
+**Autor:** VIANA
 
 **Fonte:** SINAN/DATASUS — Microdados DENGBR15 a DENGBR26 (2015-2026)  
 **Foco:** Campo Grande/MS (IBGE: 5002704) · Mato Grosso do Sul · Brasil  
